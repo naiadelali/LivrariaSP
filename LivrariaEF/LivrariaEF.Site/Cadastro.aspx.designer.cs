@@ -13,15 +13,6 @@ namespace LivrariaEF.Site {
     public partial class Cadastro {
         
         /// <summary>
-        /// lblId control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HiddenField lblId;
-        
-        /// <summary>
         /// txtNome control.
         /// </summary>
         /// <remarks>
@@ -40,6 +31,15 @@ namespace LivrariaEF.Site {
         protected global::System.Web.UI.WebControls.TextBox txtDescricao;
         
         /// <summary>
+        /// lblMsg control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblMsg;
+        
+        /// <summary>
         /// gravar control.
         /// </summary>
         /// <remarks>
@@ -47,5 +47,14 @@ namespace LivrariaEF.Site {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button gravar;
+        
+        /// <summary>
+        /// lblId control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HiddenField lblId;
     }
 }

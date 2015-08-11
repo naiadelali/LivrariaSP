@@ -7,7 +7,12 @@
         <div class="row">
             <div class="panel panel-default">
                 <div class="panel-heading"></div>
-                <div class="panel-body"></div>
+                <div class="panel-body">
+                    <div class="col-md-10"></div>
+                    <div class="col-md-2">
+                        <a href="Cadastro.aspx" class="btn btn-info"><i class="glyphicon glyphicon-plus"></i> Novo</a>
+                    </div>
+                </div>
                 <div class="panel-footer"></div>
             </div>
         </div>
@@ -15,7 +20,7 @@
             <asp:Label ID="lblMsg" Text="" runat="server"></asp:Label>
         </div>
         <div class="row">
-            <asp:GridView runat="server" AutoGenerateColumns="false" OnRowCommand="gridLivros_RowCommand" ID="gridLivros" CssClass="table table-bordered">
+            <asp:GridView runat="server" AutoGenerateColumns="false" AllowSorting="True" AllowPaging="true" PageSize="20" OnSorting="gdv_Relatorio_Sorting" OnPageIndexChanging="gdv_Relatorio_PageIndexChanging" OnRowCommand="gridLivros_RowCommand" ID="gridLivros" CssClass="table table-bordered">
                 <Columns>
                     <asp:TemplateField HeaderText="Id">
                         <ItemTemplate>
@@ -23,10 +28,14 @@
                                 <asp:Label runat="server" ID="lblId" Text='<%# DataBinder.Eval(Container.DataItem,"LivroId") %>' /></a>
                         </ItemTemplate>
                     </asp:TemplateField>
-                    <asp:BoundField HeaderText="Nome" DataField="Nome" />
-                    <asp:BoundField HeaderText="Descricao" DataField="Descricao" />
+                    <asp:BoundField HeaderText="Nome" SortExpression="Nome" DataField="Nome" />
+                    <asp:BoundField HeaderText="Descricao" SortExpression="Descricao" DataField="Descricao" />
                 </Columns>
             </asp:GridView>
+            
         </div>
+
     </div>
+    <asp:HiddenField runat="server" ID="lbl_SortDirection"/>
+     
 </asp:Content>
