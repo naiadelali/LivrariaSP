@@ -1,0 +1,9 @@
+C:\Websites\LivrariaEF\LivrariaEF.Model\bin\Debug\LivrariaEF.Model.dll.config
+C:\Websites\LivrariaEF\LivrariaEF.Model\bin\Debug\LivrariaEF.Model.dll
+C:\Websites\LivrariaEF\LivrariaEF.Model\bin\Debug\LivrariaEF.Model.pdb
+C:\Websites\LivrariaEF\LivrariaEF.Model\bin\Debug\EntityFramework.dll
+C:\Websites\LivrariaEF\LivrariaEF.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Websites\LivrariaEF\LivrariaEF.Model\bin\Debug\EntityFramework.xml
+C:\Websites\LivrariaEF\LivrariaEF.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Websites\LivrariaEF\LivrariaEF.Model\obj\Debug\LivrariaEF.Model.dll
+C:\Websites\LivrariaEF\LivrariaEF.Model\obj\Debug\LivrariaEF.Model.pdb

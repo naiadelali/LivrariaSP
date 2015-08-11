@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - apresentacao", "1 - apresentacao", "{C9260B39-FEA8-4D97-B0E5-1EDCC0DD9532}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - dominio", "2 - dominio", "{BDD41FCF-3185-4DDB-9015-C639D22AEB1E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - infra", "3 - infra", "{4D6EEFC1-CB40-4825-B5A9-16E00C19E4F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrariaEF.Model", "LivrariaEF.Model\LivrariaEF.Model.csproj", "{148DFEFC-CFC2-4D80-9435-9CDF0F0C24B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrariaEF.Data", "LivrariaEF.Data\LivrariaEF.Data.csproj", "{8D6A77E1-B359-46C4-97A4-C8F7B2D5F432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrariaEF.Core", "LivrariaEF.Core\LivrariaEF.Core.csproj", "{F61B340A-1EEC-4199-837C-24EC33A56886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrariaEF.Site", "LivrariaEF.Site\LivrariaEF.Site.csproj", "{8CF9DB9D-A240-4267-B2DC-1A79324CE816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD", "TDD\TDD.csproj", "{5E9A8FB9-6463-41C3-9D3A-E3219C8F10C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrariaEF.DataEF", "LivrariaEF.DataEF\LivrariaEF.DataEF.csproj", "{3733FEBC-BCED-4B9A-910C-BD5364B8DD19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{148DFEFC-CFC2-4D80-9435-9CDF0F0C24B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148DFEFC-CFC2-4D80-9435-9CDF0F0C24B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148DFEFC-CFC2-4D80-9435-9CDF0F0C24B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148DFEFC-CFC2-4D80-9435-9CDF0F0C24B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6A77E1-B359-46C4-97A4-C8F7B2D5F432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6A77E1-B359-46C4-97A4-C8F7B2D5F432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6A77E1-B359-46C4-97A4-C8F7B2D5F432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6A77E1-B359-46C4-97A4-C8F7B2D5F432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F61B340A-1EEC-4199-837C-24EC33A56886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61B340A-1EEC-4199-837C-24EC33A56886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61B340A-1EEC-4199-837C-24EC33A56886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61B340A-1EEC-4199-837C-24EC33A56886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF9DB9D-A240-4267-B2DC-1A79324CE816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF9DB9D-A240-4267-B2DC-1A79324CE816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF9DB9D-A240-4267-B2DC-1A79324CE816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF9DB9D-A240-4267-B2DC-1A79324CE816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9A8FB9-6463-41C3-9D3A-E3219C8F10C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9A8FB9-6463-41C3-9D3A-E3219C8F10C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9A8FB9-6463-41C3-9D3A-E3219C8F10C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9A8FB9-6463-41C3-9D3A-E3219C8F10C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3733FEBC-BCED-4B9A-910C-BD5364B8DD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3733FEBC-BCED-4B9A-910C-BD5364B8DD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3733FEBC-BCED-4B9A-910C-BD5364B8DD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3733FEBC-BCED-4B9A-910C-BD5364B8DD19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{148DFEFC-CFC2-4D80-9435-9CDF0F0C24B3} = {BDD41FCF-3185-4DDB-9015-C639D22AEB1E}
+		{8D6A77E1-B359-46C4-97A4-C8F7B2D5F432} = {4D6EEFC1-CB40-4825-B5A9-16E00C19E4F1}
+		{F61B340A-1EEC-4199-837C-24EC33A56886} = {BDD41FCF-3185-4DDB-9015-C639D22AEB1E}
+		{8CF9DB9D-A240-4267-B2DC-1A79324CE816} = {C9260B39-FEA8-4D97-B0E5-1EDCC0DD9532}
+		{3733FEBC-BCED-4B9A-910C-BD5364B8DD19} = {4D6EEFC1-CB40-4825-B5A9-16E00C19E4F1}
+	EndGlobalSection
+EndGlobal

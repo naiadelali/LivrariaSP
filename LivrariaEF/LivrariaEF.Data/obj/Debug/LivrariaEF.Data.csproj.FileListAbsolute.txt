@@ -1,0 +1,13 @@
+C:\Websites\LivrariaEF\LivrariaEF.Data\bin\Debug\LivrariaEF.Data.dll
+C:\Websites\LivrariaEF\LivrariaEF.Data\bin\Debug\LivrariaEF.Data.pdb
+C:\Websites\LivrariaEF\LivrariaEF.Data\bin\Debug\LivrariaEF.Model.dll
+C:\Websites\LivrariaEF\LivrariaEF.Data\bin\Debug\LivrariaEF.Model.pdb
+C:\Websites\LivrariaEF\LivrariaEF.Data\obj\Debug\LivrariaEF.Data.csprojResolveAssemblyReference.cache
+C:\Websites\LivrariaEF\LivrariaEF.Data\obj\Debug\LivrariaEF.Data.dll
+C:\Websites\LivrariaEF\LivrariaEF.Data\obj\Debug\LivrariaEF.Data.pdb
+F:\LivrariaEF\LivrariaEF.Data\bin\Debug\LivrariaEF.Data.dll
+F:\LivrariaEF\LivrariaEF.Data\bin\Debug\LivrariaEF.Data.pdb
+F:\LivrariaEF\LivrariaEF.Data\bin\Debug\LivrariaEF.Model.dll
+F:\LivrariaEF\LivrariaEF.Data\bin\Debug\LivrariaEF.Model.pdb
+F:\LivrariaEF\LivrariaEF.Data\obj\Debug\LivrariaEF.Data.dll
+F:\LivrariaEF\LivrariaEF.Data\obj\Debug\LivrariaEF.Data.pdb
