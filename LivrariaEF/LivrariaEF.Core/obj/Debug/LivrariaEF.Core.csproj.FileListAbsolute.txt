@@ -9,3 +9,12 @@ C:\Websites\LivrariaEF\LivrariaEF.Core\obj\Debug\LivrariaEF.Core.dll
 C:\Websites\LivrariaEF\LivrariaEF.Core\obj\Debug\LivrariaEF.Core.pdb
 F:\LivrariaEF\LivrariaEF.Core\obj\Debug\LivrariaEF.Core.csprojResolveAssemblyReference.cache
 F:\LivrariaEF\LivrariaEF.Core\obj\Debug\LivrariaEF.Core.dll
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.Core\bin\Debug\LivrariaEF.Core.dll
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.Core\bin\Debug\LivrariaEF.Core.pdb
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.Core\bin\Debug\LivrariaEF.Data.dll
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.Core\bin\Debug\LivrariaEF.Model.dll
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.Core\bin\Debug\LivrariaEF.Data.pdb
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.Core\bin\Debug\LivrariaEF.Model.pdb
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.Core\obj\Debug\LivrariaEF.Core.csprojResolveAssemblyReference.cache
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.Core\obj\Debug\LivrariaEF.Core.dll
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.Core\obj\Debug\LivrariaEF.Core.pdb

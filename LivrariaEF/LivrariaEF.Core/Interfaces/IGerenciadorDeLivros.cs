@@ -16,6 +16,6 @@ namespace LivrariaEF.Core.Interfaces
         void Inserir(Livro livro);
         void Alterar(Livro livro);
         Livro BuscarPorId(int id);
-        void Deletar(Livro livro);
+        void Deletar(int id);
     }
 }

@@ -41,11 +41,13 @@ namespace LivrariaEF.Data.Repositorios
             string sql = "sp_livro_gravar";
 
             List<SqlParameter> parameters = new List<SqlParameter>()
-           {
-               new SqlParameter("@nome", livro.Nome),
-               new SqlParameter("@descricao", livro.Descricao),
+           {  
                new SqlParameter("@livroid",livro.LivroId),
-               new SqlParameter("@generoid", livro.GeneroId)
+               new SqlParameter("@generoid", livro.GeneroId),
+               new SqlParameter("@nome", livro.Nome),
+               new SqlParameter("@descricao", livro.Descricao)
+             
+               
            };
 
             DbComandos.ExecutarProcedure(sql, parameters);

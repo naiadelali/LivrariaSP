@@ -37,9 +37,9 @@ namespace LivrariaEF.Core
             return _livroRepositorio.BuscarPorId(id);
         }
 
-        public void Deletar(Livro livro)
+        public void Deletar(int id)
         {
-            _livroRepositorio.Deletar(livro);
+            _livroRepositorio.Deletar(id);
         }
     }
 }

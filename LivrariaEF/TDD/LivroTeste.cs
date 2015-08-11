@@ -28,7 +28,7 @@ namespace TDD
         public void Inserir()
         {
            LivroRepositorio repositorio = new LivroRepositorio();
-           repositorio.Gravar(new Livro() { LivroId = 2, GeneroId = 1, Descricao = "percy jackson", Nome = "livro sobre mitologia grega e fantasia" });
+           repositorio.Gravar(new Livro() { LivroId = 2, GeneroId = 1, Nome = "percy jackson", Descricao = "livro sobre mitologia grega e fantasia" });
         }
 
         [TestMethod]
