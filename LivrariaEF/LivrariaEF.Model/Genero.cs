@@ -5,6 +5,7 @@ using System.Text;
 
 namespace LivrariaEF.Model
 {
+    [Serializable]
     public class Genero
     {
         private int _generoId;

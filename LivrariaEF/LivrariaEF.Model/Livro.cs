@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+using System.Runtime.Serialization;
 namespace LivrariaEF.Model
 {
+    [Serializable]
     public class Livro
     {
 
@@ -16,6 +13,7 @@ namespace LivrariaEF.Model
         private int _generoId;
         private Genero _genero;
 
+        
         public int LivroId
         {
             get { return _livroId; }

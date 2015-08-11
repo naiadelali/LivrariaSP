@@ -22,3 +22,15 @@ F:\LivrariaEF\LivrariaEF.DataEF\bin\Debug\EntityFramework.SqlServer.xml
 F:\LivrariaEF\LivrariaEF.DataEF\obj\Debug\LivrariaEF.DataEF.csprojResolveAssemblyReference.cache
 F:\LivrariaEF\LivrariaEF.DataEF\obj\Debug\LivrariaEF.DataEF.dll
 F:\LivrariaEF\LivrariaEF.DataEF\obj\Debug\LivrariaEF.DataEF.pdb
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.DataEF\bin\Debug\LivrariaEF.DataEF.dll.config
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.DataEF\bin\Debug\LivrariaEF.DataEF.dll
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.DataEF\bin\Debug\LivrariaEF.DataEF.pdb
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.DataEF\bin\Debug\EntityFramework.dll
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.DataEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.DataEF\bin\Debug\LivrariaEF.Model.dll
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.DataEF\bin\Debug\LivrariaEF.Model.pdb
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.DataEF\bin\Debug\EntityFramework.xml
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.DataEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.DataEF\obj\Debug\LivrariaEF.DataEF.csprojResolveAssemblyReference.cache
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.DataEF\obj\Debug\LivrariaEF.DataEF.dll
+C:\Users\naiade.lima\Documents\GitHub\LivrariaSP\LivrariaEF\LivrariaEF.DataEF\obj\Debug\LivrariaEF.DataEF.pdb

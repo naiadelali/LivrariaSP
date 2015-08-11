@@ -20,7 +20,7 @@
             <asp:Label ID="lblMsg" Text="" runat="server"></asp:Label>
         </div>
         <div class="row">
-            <asp:GridView runat="server" AutoGenerateColumns="false" AllowSorting="True" AllowPaging="true" PageSize="20" OnSorting="gdv_Relatorio_Sorting" OnPageIndexChanging="gdv_Relatorio_PageIndexChanging" OnRowCommand="gridLivros_RowCommand" ID="gridLivros" CssClass="table table-bordered">
+            <asp:GridView runat="server" AutoGenerateColumns="false" AllowSorting="True" AllowPaging="true" PageSize="3" OnSorting="gdv_Relatorio_Sorting" OnPageIndexChanging="gdv_Relatorio_PageIndexChanging" OnRowCommand="gridLivros_RowCommand" ID="gridLivros" CssClass="table table-bordered">
                 <Columns>
                     <asp:TemplateField HeaderText="Id">
                         <ItemTemplate>
